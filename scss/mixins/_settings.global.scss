@@ -292,17 +292,17 @@ $alert-border-radius: $border-radius !default;
 //
 // Avatar
 //
-$avatar-margin: 0;
-$avatar-background-color: $color-brand;
-$avatar-color: $color-white;
-$avatar-img-border-radius: $border-radius-rounded;
-$avatar-inner-img-size: 50%;
-$avatar-xsmall-size: 1em;
-$avatar-small-size: 2em;
-$avatar-medium-size: 3em;
-$avatar-large-size: 4em;
-$avatar-xlarge-size: 5em;
-$avatar-super-size: 6em;
+$avatar-margin: 0 !default;
+$avatar-background-color: $color-brand !default;
+$avatar-color: $color-white !default;
+$avatar-img-border-radius: $border-radius-rounded !default;
+$avatar-inner-img-size: 50% !default;
+$avatar-xsmall-size: 1em !default;
+$avatar-small-size: 2em !default;
+$avatar-medium-size: 3em !default;
+$avatar-large-size: 4em !default;
+$avatar-xlarge-size: 5em !default;
+$avatar-super-size: 6em !default;
 
 //
 // Badges
